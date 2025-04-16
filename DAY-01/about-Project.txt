@@ -1,0 +1,9 @@
+In this project, I created a simple interactive JavaScript program that prompts the user to enter their name and then displays it on the screen. Here's what the project includes:
+
+Used the prompt() method to get the user's name.
+
+Displayed the entered name dynamically using JavaScript.
+
+Enhanced user interaction through simple and clean UI design.
+
+This project demonstrates how to take user input through a dialog box and update the web page content based on that input using JavaScript DOM manipulation.
