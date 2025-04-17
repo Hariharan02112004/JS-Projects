@@ -1,0 +1,13 @@
+In this project, I created a personal resume webpage built completely using HTML and CSS. Here's what the project includes:
+
+Structured the entire resume content using semantic HTML elements such as <header>, <section>, <article>, and <footer>.
+
+Showcased personal details, education, skills, experience, projects, and contact information in a clean and organized layout.
+
+Applied custom styling using CSS to enhance the visual appeal of the resume with proper spacing, fonts, and colors.
+
+Made the layout responsive for different screen sizes using media queries to ensure usability across devices.
+
+Used flexbox and grid layouts to align and arrange content for better readability and modern design aesthetics.
+
+This project demonstrates how to create a well-organized, professional-looking resume web page using only HTML and CSS, focusing on layout, structure, and styling techniques.
