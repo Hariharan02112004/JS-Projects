@@ -1,0 +1,2 @@
+Random Number Generator Web App
+Created a simple and interactive random number generator using HTML, CSS, and JavaScript. The app generates a random number between 1 and 100 on button click. Styled the layout using Flexbox for center alignment, added animations for better UX, and used responsive design for usability across devices. This project demonstrates basic DOM manipulation and styling for a clean and functional mini web tool.
